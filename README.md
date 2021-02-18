@@ -2,4 +2,4 @@
 
 + 👋 Hi, I’m @VantyArtem
 
-im C# Coder!
+- I'm C# Coder!

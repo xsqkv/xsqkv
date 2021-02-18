@@ -2,4 +2,4 @@
 
 - 👋 Hi everyone, I’m @VantyArtem and I'm C# Coder.
 
-![](https://assets-global.website-files.com/5aa7081220a301f2a3644f3b/5c363b1f43fb7bbc94f002c3_Website_Reporting%20Language%20Icons_Csharp.png)
+![](https://camo.githubusercontent.com/126a289301fa6e37603926b2658e142e4f40e20c81f11d3b575ab8c776345bb5/68747470733a2f2f692e696d6775722e636f6d2f7267536f776e552e706e67)

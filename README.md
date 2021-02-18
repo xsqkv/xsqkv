@@ -5,5 +5,4 @@
 
 👋 Hi everyone, I’m @VantyArtem and I'm C# Coder.
 
-Me on CodeWars! 
-#### [Link](https://www.codewars.com/users/Vanty)
+- Me on CodeWars! [Link](https://www.codewars.com/users/Vanty)

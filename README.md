@@ -1,3 +1,3 @@
 # Status
-- 👋 Hi, I’m @VantyArtem
-- And im C# Coder!
+👋 Hi, I’m @VantyArtem
+im C# Coder!
